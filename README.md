@@ -1,6 +1,6 @@
 ## But Why?
 
-This started as a playground to try elm-ui, but it is here a proof of concept for a plugin-based reusable UI (for now based on an iframe) and code sample for a question of mine on StackOverflow :D
+This started as a playground to try elm-ui, but it is here as a proof of concept for a plugin-based reusable UI (for now based on an iframe) and code sample for a question on StackOverflow
 
 the idea is to have external components bundled in self-contained html files, fetch those files at startup time based on yaml config files, and run the components in sandboxed iframes
 
