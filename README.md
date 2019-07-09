@@ -1,4 +1,4 @@
-###But Why?
+## But Why?
 
 This started as a playground to try elm-ui, but it is here a proof of concept for a plugin-based reusable UI (for now based on an iframe) and code sample for a question of mine on StackOverflow :D
 
@@ -8,6 +8,6 @@ I guess web components are a more elegant way to solve this "problem", but I wan
 
 To try it, just run ```elm reactor``` and open Main.elm
 
-###Contributing
+## Contributing
 
 Lol, really? :D
